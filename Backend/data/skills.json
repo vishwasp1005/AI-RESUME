@@ -1,0 +1,85 @@
+{
+  "programming_languages": [
+    "python", "javascript", "typescript", "java", "c++", "c#", "c", "go", "rust",
+    "ruby", "php", "swift", "kotlin", "scala", "r", "matlab", "perl", "bash",
+    "shell", "powershell", "dart", "lua", "haskell", "elixir", "clojure", "julia"
+  ],
+  "web_frontend": [
+    "react", "reactjs", "react.js", "angular", "angularjs", "vue", "vuejs", "vue.js",
+    "next.js", "nextjs", "nuxt.js", "svelte", "html", "html5", "css", "css3",
+    "tailwind", "tailwindcss", "bootstrap", "sass", "scss", "less", "jquery",
+    "webpack", "vite", "babel", "redux", "zustand", "mobx", "graphql",
+    "apollo", "gatsby", "remix", "astro"
+  ],
+  "web_backend": [
+    "fastapi", "flask", "django", "express", "expressjs", "nestjs", "spring boot",
+    "laravel", "rails", "ruby on rails", "asp.net", "gin", "fiber", "fastify",
+    "hapi", "koa", "node.js", "nodejs", "rest api", "restful", "graphql api",
+    "grpc", "websocket", "microservices", "serverless"
+  ],
+  "databases": [
+    "sql", "mysql", "postgresql", "postgres", "sqlite", "oracle", "mssql",
+    "sql server", "mongodb", "dynamodb", "firebase", "firestore", "redis",
+    "elasticsearch", "cassandra", "neo4j", "influxdb", "clickhouse", "supabase",
+    "planetscale", "cockroachdb", "timescaledb"
+  ],
+  "cloud_devops": [
+    "aws", "azure", "gcp", "google cloud", "docker", "kubernetes", "k8s",
+    "terraform", "ansible", "jenkins", "github actions", "gitlab ci", "circleci",
+    "helm", "istio", "nginx", "apache", "linux", "ubuntu", "centos",
+    "ci/cd", "devops", "sre", "monitoring", "prometheus", "grafana",
+    "datadog", "new relic", "cloudwatch", "heroku", "vercel", "netlify",
+    "cloudflare", "vpc", "iam", "ec2", "s3", "lambda", "eks", "ecs"
+  ],
+  "ai_ml": [
+    "machine learning", "deep learning", "neural networks", "nlp",
+    "natural language processing", "computer vision", "reinforcement learning",
+    "tensorflow", "pytorch", "keras", "scikit-learn", "sklearn",
+    "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly",
+    "hugging face", "transformers", "bert", "gpt", "llm", "rag",
+    "langchain", "llama", "openai", "stable diffusion", "diffusers",
+    "xgboost", "lightgbm", "catboost", "mlflow", "wandb", "airflow",
+    "spark", "pyspark", "hadoop", "data science", "data analysis",
+    "feature engineering", "model deployment", "mlops", "vector database",
+    "pinecone", "chroma", "weaviate", "faiss", "sentence transformers",
+    "onnx", "triton", "cuda", "gpu programming"
+  ],
+  "mobile": [
+    "android", "ios", "react native", "flutter", "xamarin", "ionic",
+    "swift ui", "jetpack compose", "kotlin multiplatform", "expo"
+  ],
+  "tools_practices": [
+    "git", "github", "gitlab", "bitbucket", "jira", "confluence", "trello",
+    "agile", "scrum", "kanban", "tdd", "bdd", "unit testing", "integration testing",
+    "pytest", "jest", "mocha", "cypress", "selenium", "playwright",
+    "postman", "swagger", "openapi", "figma", "zeplin", "storybook",
+    "linux", "vim", "vscode", "intellij", "solid principles", "design patterns",
+    "microservices", "event driven", "cqrs", "ddd", "api gateway", "oauth2",
+    "jwt", "authentication", "authorization", "encryption", "ssl/tls"
+  ],
+  "finance": [
+    "financial modeling", "equity research", "valuation", "dcf", "lbo",
+    "mergers and acquisitions", "investment banking", "bloomberg", "excel",
+    "vba", "quantitative analysis", "risk management", "derivatives",
+    "portfolio management", "asset management", "hedge fund", "private equity",
+    "accounting", "gaap", "ifrs", "financial reporting", "auditing",
+    "tax", "compliance", "kyc", "aml", "fintech", "blockchain", "defi",
+    "algorithmic trading", "high frequency trading", "trading systems",
+    "risk analytics", "credit risk", "market risk", "operational risk"
+  ],
+  "marketing": [
+    "seo", "sem", "ppc", "google ads", "facebook ads", "digital marketing",
+    "content marketing", "email marketing", "social media marketing",
+    "influencer marketing", "brand strategy", "market research",
+    "google analytics", "marketing automation", "hubspot", "salesforce",
+    "crm", "lead generation", "conversion optimization", "a/b testing",
+    "copywriting", "ux writing", "product marketing", "growth hacking",
+    "affiliate marketing", "performance marketing", "programmatic advertising"
+  ],
+  "soft_skills": [
+    "leadership", "communication", "teamwork", "problem solving",
+    "critical thinking", "project management", "time management",
+    "collaboration", "adaptability", "creativity", "analytical",
+    "presentation", "stakeholder management", "mentoring", "coaching"
+  ]
+}
